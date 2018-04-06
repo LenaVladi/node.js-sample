@@ -1,4 +1,4 @@
-![Cтепень двойки](./res/power-of-two.png)
+![Cтепень двойки](../res/power-of-two.png)
 
 ### Степени двойки
 
